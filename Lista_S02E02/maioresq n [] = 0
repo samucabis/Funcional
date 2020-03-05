@@ -1,0 +1,2 @@
+maioresq n [] = 0
+maioresq n (x:xs)| (x < n) = 1 + maioresq n xs | otherwise = 0 + maioresq n xs

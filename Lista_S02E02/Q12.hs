@@ -1,0 +1,1 @@
+conc xs ys = xs++ys
