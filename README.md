@@ -7,6 +7,6 @@ Curso : Ciência da Computação
 
 <!--TOC_BEGIN-->
 # Trabalhos
-- [Lista S03E03](#ListaS03E01)
+- [Lista S03E03](/ListaS03E01)
 
 <!--TOC_END-->
