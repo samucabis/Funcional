@@ -1,3 +1,4 @@
 # Funcional
-Aluno : Samuel Ribeiro Bezerra /n
+Aluno : Samuel Ribeiro Bezerra
+
 Curso : Ciência da Computação
