@@ -1,0 +1,1 @@
+fechoKleene a = [] : [x : ys | ys <- fechoKleene a, x <- a]
